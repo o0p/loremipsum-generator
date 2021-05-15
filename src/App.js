@@ -24,6 +24,20 @@ function App() {
           generate
         </button>
       </form>
+      <article className="lorem-text">
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus,
+          doloribus. Ab nostrum temporibus voluptas deleniti voluptate magnam
+          sint ad laboriosam eius incidunt fuga, officiis neque ipsa eum
+          excepturi eveniet aliquam.
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus,
+          doloribus. Ab nostrum temporibus voluptas deleniti voluptate magnam
+          sint ad laboriosam eius incidunt fuga, officiis neque ipsa eum
+          excepturi eveniet aliquam.
+        </p>
+      </article>
     </section>
   );
 }
