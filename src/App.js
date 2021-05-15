@@ -4,7 +4,11 @@ function App() {
   const [count, setCount] = useState(0);
   const [text, setText] = useState([]);
 
-  return <h2>lorem ipsum project setup</h2>;
+  return (
+    <section className="section-center">
+      <h3>tired of boring lorem ipsum?</h3>
+    </section>
+  );
 }
 
 export default App;
